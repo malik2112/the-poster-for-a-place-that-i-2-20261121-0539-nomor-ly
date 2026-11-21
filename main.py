@@ -2,11 +2,11 @@
 """The Poster for a Place That Isn't There — ORINTH.
 
 Deterministic PIL travel poster (1024x1024 PNG) for an invented desert
-city: a glass-domed oasis town under a low amber sun, with an hourglass
-clock tower as its landmark, mesas and dunes behind, palms and a teal
-pool in front. The only text in the picture is the place name, set in
-the umber band at the foot.
-No network; fixed-seed detail only.
+city: a glass-domed oasis town under a low amber sun and early stars,
+with an hourglass clock tower as its landmark, mesas and dunes behind,
+and palms around a teal pool in front. The only text in the picture is
+the place name, set in the umber band at the foot.
+No network; fixed-seed detail only (stars, ripples, grain).
 """
 import os
 import random
